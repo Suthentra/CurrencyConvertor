@@ -10,7 +10,7 @@ Procedure
 . Install XAMPP or WAMPP
 
 . Start the tomcat server by double clicking the startup
-. Go to the browser and type "http://localhost:9090" to see if your tomcat server is running or not.
+. Go to the browser and type "http://localhost:8090" to see if your tomcat server is running or not.
 . To change the port go to Tomcat 9.0/conf/server.html and you can change the port
 
 .Create your project inside the webapps folder(in my case webapps/currencycon)
